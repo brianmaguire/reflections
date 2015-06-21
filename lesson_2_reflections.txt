@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+You create the framework that makes tracking changes in files possible (to track them you add files in that directiory to the currently empty repositor.  
+You need it if you want to track files.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The working directory contains the repository of tracked files plus untracked files (ones you don't want to pay that much attention to).  The staging area provides a temporary area where you can set up your commits and change them if necessary before they actually change logs and other Git features.
