@@ -10,3 +10,9 @@ The working directory contains the repository of tracked files plus untracked fi
 How can you use the staging area to make sure you have one commit per logical change?
 
 The staging area allows you to compare what you are about to commit to what is already committed. This means you can see the scope of the changes you are about to make and if necessary split them into 2 or more commits.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When using a template as the basis of a program, especialy if it's a family of programs.  You could branch off the template and not risk damaging it.  
+
+For documentation, if you have to prepare different versions for different audiences.
