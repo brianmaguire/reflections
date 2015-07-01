@@ -6,3 +6,11 @@ Why might you want to always pull changes manually rather than having Git automa
 
 1. to allow you to decide how when you commit, avoiding excessive small commits
 2. You may be working on a machine where you don't want to locally store your repository.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks: copies of a repository, usually another persons, though I guess you could fork your own.  It is basically a clone created on GitHub.
+
+Clone: a copy of a repository with links to the original that you can push/pull with.  The original is called a remote and the default name is "origin"
+
+Branch: a branch is an alternative development path within one repository.  It is a 'branch' off the master and can be merged into the master.
