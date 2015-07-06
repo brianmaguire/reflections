@@ -20,3 +20,15 @@ Branch: a branch is an alternative development path within one repository.  It i
 1. You can easily compare and see how much you have changed
 
 2. you can do branches and merges offline.
+
+#How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+At my company we generally use Google Docs.  What would be harder?
+
+1. Editing.  Instead of being able to use my favorite editor I would have to edit in Google Docs.
+
+2. Keeping track of changes
+
+3. Branching would be impossible.  We would all be working on the master.
+
+However, integration of changes into the document would be easier unless I used an external tool (bc3, kdiff3) in Git.
